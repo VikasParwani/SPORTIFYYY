@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "UEFA Champions League Quarter-Finals Preview",
+      "excerpt": "A comprehensive look at the upcoming Champions League quarter-final matches and predictions.",
+      "content": "The UEFA Champions League quarter-finals are set to begin next week, featuring some of Europe's most prestigious clubs...",
+      "author": "John Smith",
+      "date": "2024-03-20",
+      "category": "Football",
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?auto=format&fit=crop&q=80"
+    },
+    {
+      "id": 2,
+      "title": "NBA Playoff Race Heats Up",
+      "excerpt": "Teams battle for final playoff spots as regular season nears end.",
+      "content": "With just a few weeks remaining in the regular season, the race for the final playoff spots in both conferences is intensifying...",
+      "author": "Sarah Johnson",
+      "date": "2024-03-19",
+      "category": "Basketball",
+      "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&q=80"
+    },
+    {
+      "id": 3,
+      "title": "Tennis: Australian Open 2024 Recap",
+      "excerpt": "Highlights from this year's first Grand Slam tournament.",
+      "content": "The Australian Open 2024 provided tennis fans with incredible matches and memorable moments...",
+      "author": "Mike Williams",
+      "date": "2024-03-18",
+      "category": "Tennis",
+      "image": "https://images.unsplash.com/photo-1531315630201-bb15abeb1653?auto=format&fit=crop&q=80"
+    }
+  ]
+}

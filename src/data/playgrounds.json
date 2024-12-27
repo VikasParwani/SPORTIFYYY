@@ -1,0 +1,39 @@
+{
+  "playgrounds": [
+    {
+      "id": 1,
+      "name": "Central Sports Complex",
+      "type": "Multi-sport",
+      "sports": ["Football", "Basketball", "Tennis"],
+      "location": {
+        "lat": 40.7128,
+        "lng": -74.0060
+      },
+      "address": "123 Sports Avenue, New York",
+      "rating": 4.5,
+      "price": 25,
+      "images": [
+        "https://images.unsplash.com/photo-1552667466-07770ae110d0?auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&q=80"
+      ],
+      "amenities": ["Parking", "Changing Rooms", "Floodlights"]
+    },
+    {
+      "id": 2,
+      "name": "Downtown Basketball Court",
+      "type": "Basketball",
+      "sports": ["Basketball"],
+      "location": {
+        "lat": 40.7112,
+        "lng": -74.0055
+      },
+      "address": "456 Downtown Street, New York",
+      "rating": 4.2,
+      "price": 15,
+      "images": [
+        "https://images.unsplash.com/photo-1544919982-b61976f0ba43?auto=format&fit=crop&q=80"
+      ],
+      "amenities": ["Water Fountain", "Seating"]
+    }
+  ]
+}
